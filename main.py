@@ -30,7 +30,6 @@ umbrella = False
 # for code in weather:
 #     if code < 700:
 #         umbrella = True
-
 #     #Slice:
 
 weather_slice = weather_data["hourly"][:12]
